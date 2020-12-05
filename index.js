@@ -33,7 +33,6 @@ announcements["announcements"].forEach(announcement => {
 		const channel = guild.channels.cache.find(channel => channel.id === announcement["channel"]);
 		// Then send our re-formatted string and our images (if any) to that channel
 		channel.send(announcement["message"]);
-		console.info('Did this work?');
 	}, undefined, true, timezone='America/New_York');
 	// For some reason, the above method adds a bunch of null garbage to the list so we need to strip that out
 	//		While we're at it, we will just add the real elements to a different list so we can start them all
@@ -42,23 +41,9 @@ announcements["announcements"].forEach(announcement => {
 	}));
 })
 
-// Run thru and start all the jobs
-// jobs.forEach(job => {
-// 	job[0].start()
-// })
-
 
 
 // When the bot connects
 client.on('ready', () => {
 	console.info(`Logged in as ${client.user.tag}!`);
-});
-
-prefix = '~';
-
-client.on('message', msg => {
-	if (msg.content.startsWith(prefix)) {
-		date = new Date().toLocaleString();
-		msg.author.send(`It worked:  ${date}`);
-	}
 });
