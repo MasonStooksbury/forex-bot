@@ -53,3 +53,11 @@ jobs.forEach(job => {
 client.on('ready', () => {
 	console.info(`Logged in as ${client.user.tag}!`);
 });
+
+prefix = '~';
+
+client.on('message', msg => {
+	if (msg.content.startsWith(prefix)) {
+		msg.author.send(`It worked:  ${Date.toLocaleString()}`);
+	}
+});
