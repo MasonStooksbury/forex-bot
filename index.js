@@ -3,6 +3,7 @@ const Discord = require('discord.js');
 const client = new Discord.Client({disableEveryone: false});
 const TOKEN = process.env.TOKEN;
 
+// ID of the Forex server
 const server_id = '576915096924848129';
 
 const fs = require('fs');
