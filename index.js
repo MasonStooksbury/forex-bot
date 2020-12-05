@@ -32,6 +32,7 @@ announcements["announcements"].forEach(announcement => {
 		const channel = guild.channels.cache.find(channel => channel.id === announcement["channel"]);
 		// Then send our re-formatted string and our images (if any) to that channel
 		channel.send(announcement["message"]);
+		console.info('Did this work?');
 	}, timezone='America/New_York');
 	// For some reason, the above method adds a bunch of null garbage to the list so we need to strip that out
 	//		While we're at it, we will just add the real elements to a different list so we can start them all
