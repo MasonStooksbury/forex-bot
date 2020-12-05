@@ -171,7 +171,7 @@
             "message": "Want to grab some Forex League gear such as hats, notebooks or beanies then head over to our pop up shop and check out what’s currently in stock 🔥<https://www.forexleagueco.com/forex-league-essentials>"
         },
         {
-            "cron": "00 39 15 * * SAT",
+            "cron": "00 53 15 * * SAT",
             "channel": "576925133512507417",
             "message": "This is a scheduled test"
         }

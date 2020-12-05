@@ -34,7 +34,7 @@ announcements["announcements"].forEach(announcement => {
 		// Then send our re-formatted string and our images (if any) to that channel
 		channel.send(announcement["message"]);
 		console.info('Did this work?');
-	}, timezone='America/New_York');
+	}, undefined, true, timezone='America/New_York');
 	// For some reason, the above method adds a bunch of null garbage to the list so we need to strip that out
 	//		While we're at it, we will just add the real elements to a different list so we can start them all
 	jobs.push(temp_jobs.filter(function (element) {
@@ -43,9 +43,9 @@ announcements["announcements"].forEach(announcement => {
 })
 
 // Run thru and start all the jobs
-jobs.forEach(job => {
-	job[0].start()
-})
+// jobs.forEach(job => {
+// 	job[0].start()
+// })
 
 
 
