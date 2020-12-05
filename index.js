@@ -58,6 +58,7 @@ prefix = '~';
 
 client.on('message', msg => {
 	if (msg.content.startsWith(prefix)) {
-		msg.author.send(`It worked:  ${Date.toLocaleString()}`);
+		date = new Date().toLocaleString();
+		msg.author.send(`It worked:  ${date}`);
 	}
 });
