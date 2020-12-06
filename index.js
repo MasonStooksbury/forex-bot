@@ -32,7 +32,7 @@ announcements["announcements"].forEach(announcement => {
 		// Find the channel we want to cross-post to and store its channel object
 		const channel = guild.channels.cache.find(channel => channel.id === announcement["channel"]);
 		// Then send our re-formatted string and our images (if any) to that channel
-		channel.send(announcement["message"]);
+		channel.send(announcement["message"] + '\n@everyone');
 	}, undefined, true, timezone='America/New_York');
 	// For some reason, the above method adds a bunch of null garbage to the list so we need to strip that out
 	//		While we're at it, we will just add the real elements to a different list so we can start them all
