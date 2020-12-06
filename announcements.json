@@ -51,6 +51,16 @@
             "message": "Good morning Forex League❗ Remember, the morning is the best part of the day to get ahead on your daily habits ☀️ The body is rested, the brain is fresh, and the possibilities of the day are endless. Have an impactful day and feel free to reach out if you have any questions 🙏@everyone"
         },
         {
+            "cron": "00 30 07 * * MON",
+            "channel": "719558322503811173",
+            "message": "For all the new members, if you submit a meme here you have a chance at winning a $25 giveaway. @everyone"
+        },
+        {
+            "cron": "00 30 07 * * MON",
+            "channel": "735829076455194625",
+            "message": "For all the new members, if you submit a picture of your profits here you have a chance at winning a $25 giveaway. @everyone"
+        },
+        {
             "cron": "00 00 08 * * MON",
             "channel": "576925133512507417",
             "message": "Be sure to check out the <#692752766325620806> channel which will have our watchlist as we head into the NY session today it is completely FREE @everyone"
@@ -61,9 +71,14 @@
             "message": "If you are not already inside, make sure you join our free course! Here is the link to get started!   <http://forexleagueteam.com/free>🔥 @everyone"
         },
         {
+            "cron": "00 00 17 * * MON",
+            "channel": "576925133512507417",
+            "message": "If you want account management services from us shoot me a message to get more information! <@Forex League (Angelo & Nick)#6038> @everyone"
+        },
+        {
             "cron": "00 00 20 * * MON",
             "channel": "576925133512507417",
-            "message": "Be sure to check out the <#692752766325620806> channel which will have our watchlist as we head into the Asain session tonight it is completely FREE @everyone"
+            "message": "Be sure to check out the <#692752766325620806> channel which will have our watchlist as we head into the Asian session tonight it is completely FREE @everyone"
         },
         {
             "cron": "00 00 21 * * MON",
@@ -86,9 +101,14 @@
             "message": "Make sure to check out our website where you can find all the products we have to offer along with a little about the owners of Forex League! Just use this link to check it out 🚀<https://www.forexleagueco.com/> @everyone"
         },
         {
+            "cron": "00 00 17 * * TUE",
+            "channel": "576925133512507417",
+            "message": "Want us to pass your ftmo challenge for you? We will do it for $100k, $200k and $300k accounts. 💰  Shoot us a message now to get started <@Forex League (Angelo & Nick)#6038> @everyone"
+        },
+        {
             "cron": "00 00 20 * * TUE",
             "channel": "576925133512507417",
-            "message": "Be sure to check out the <#692752766325620806> channel which will have our watchlist as we head into the Asain session tonight it is completely FREE @everyone"
+            "message": "Be sure to check out the <#692752766325620806> channel which will have our watchlist as we head into the Asian session tonight it is completely FREE @everyone"
         },
         {
             "cron": "00 00 22 * * TUE",
@@ -111,19 +131,34 @@
             "message": "Thank you for joining the live session! Make sure to get in on our Forex League Trade Copier. In this product you will receive signals that are automatically taken on your account. All you need to do is the initial setup and let our team do the rest! If you want to check out how it’s been performing and sign up here is the link! <https://www.myforexleague.com/view/8102a6afeb7da834e24b5fbce326a486> \n If you have any questions feel free to message me using this link <https://t.me/forexleaguehelp> @everyone"
         },
         {
+            "cron": "00 05 09 * * WED",
+            "channel": "719558322503811173",
+            "message": "For all the new members, if you submit a meme here you have a chance at winning a $25 giveaway. @everyone"
+        },
+        {
+            "cron": "00 05 09 * * WED",
+            "channel": "735829076455194625",
+            "message": "For all the new members, if you submit a picture of your profits here you have a chance at winning a $25 giveaway. @everyone"
+        },
+        {
             "cron": "00 00 12 * * WED",
             "channel": "576925133512507417",
             "message": "Thank you for joining the Forex League Live Session today! 💯Be sure to check out our previously recorded live trading sessions and market lessons completely for free on youtube. We would appreciate it if you subscribed to the channel to help us to continue to grow this community! Here is the link <https://www.youtube.com/channel/UCaghoaCcEoZih60zap3yH5A> @everyone"
         },
         {
+            "cron": "00 00 17 * * WED",
+            "channel": "576925133512507417",
+            "message": "If you want account management services from us shoot me a message to get more information! <@Forex League (Angelo & Nick)#6038> @everyone"
+        },
+        {
             "cron": "00 00 20 * * WED",
             "channel": "576925133512507417",
-            "message": "Be sure to check out the <#692752766325620806> channel which will have our watchlist as we head into the Asain session tonight it is completely FREE @everyone"
+            "message": "Be sure to check out the <#692752766325620806> channel which will have our watchlist as we head into the Asian session tonight it is completely FREE @everyone"
         },
         {
             "cron": "00 00 22 * * WED",
             "channel": "576925133512507417",
-            "message": "If you are not already make sure you join our free course! Here is the link to get started!  <http://forexleagueteam.com/free>"
+            "message": "If you are not already, make sure you join our free course! Here is the link to get started!  <http://forexleagueteam.com/free>"
         },
         {
             "cron": "00 30 07 * * THU",
@@ -141,9 +176,14 @@
             "message": "Make sure to check out our website where you can find all the products we have to offer along with a little about the owners of Forex League! Just use this link to check it out 🚀<https://www.forexleagueco.com/> @everyone"
         },
         {
+            "cron": "00 00 17 * * THU",
+            "channel": "576925133512507417",
+            "message": "Want us to pass your ftmo challenge for you? We will do it for $100k, $200k and $300k accounts.💰 Should us a message now to get started <@Forex League (Angelo & Nick)#6038> @everyone"
+        },
+        {
             "cron": "00 00 20 * * THU",
             "channel": "576925133512507417",
-            "message": "Be sure to check out the <#692752766325620806> channel which will have our watchlist as we head into the Asain session tonight it is completely FREE @everyone"
+            "message": "Be sure to check out the <#692752766325620806> channel which will have our watchlist as we head into the Asian session tonight it is completely FREE @everyone"
         },
         {
             "cron": "00 00 22 * * THU",
