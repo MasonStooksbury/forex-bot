@@ -73,7 +73,7 @@
         {
             "cron": "00 00 17 * * MON",
             "channel": "576925133512507417",
-            "message": "If you want account management services from us, shoot me a message to get more information! <@Forex League (Angelo & Nick)#6038> "
+            "message": "If you want account management services from us, shoot me a message to get more information! @Forex League (Angelo & Nick) "
         },
         {
             "cron": "00 00 20 * * MON",
@@ -148,7 +148,7 @@
         {
             "cron": "00 00 17 * * WED",
             "channel": "576925133512507417",
-            "message": "If you want account management services from us shoot me a message to get more information! <@Forex League (Angelo & Nick)#6038> "
+            "message": "If you want account management services from us shoot me a message to get more information! @Forex League (Angelo & Nick) "
         },
         {
             "cron": "00 00 20 * * WED",
@@ -178,7 +178,7 @@
         {
             "cron": "00 00 17 * * THU",
             "channel": "576925133512507417",
-            "message": "Want us to pass your ftmo challenge for you? We will do it for $100k, $200k and $300k accounts. 💰 Shoot us a message now to get started <@Forex League (Angelo & Nick)#6038> "
+            "message": "Want us to pass your ftmo challenge for you? We will do it for $100k, $200k and $300k accounts. 💰 Shoot us a message now to get started @Forex League (Angelo & Nick)  "
         },
         {
             "cron": "00 00 20 * * THU",
@@ -193,7 +193,7 @@
         {
             "cron": "00 00 08 * * FRI",
             "channel": "576925133512507417",
-            "message": "Hey Team! This has been another interesting week in the markets 🔥 If you want account management services from us shoot me a message to get more information! <@Forex League (Angelo & Nick)#6038>"
+            "message": "Hey Team! This has been another interesting week in the markets 🔥 If you want account management services from us shoot me a message to get more information! @Forex League (Angelo & Nick)"
         },
         {
             "cron": "00 00 17 * * FRI",
