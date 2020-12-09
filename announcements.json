@@ -126,6 +126,11 @@
             "message": "Be sure to check out the <#692752766325620806> channel which will have our watchlist as we head into the NY session today it is completely FREE \nHere is the link to our live trading session you can join NOW 🔗 <https://us02web.zoom.us/j/5273214305>"
         },
         {
+            "cron": "00 00 08 * * WED",
+            "channel": "692752766325620806",
+            "message": "Here is the link to our live trading session you can join NOW 🔗 <https://us02web.zoom.us/j/5273214305>"
+        },
+        {
             "cron": "00 05 09 * * WED",
             "channel": "576925133512507417",
             "message": "Thank you for joining the live session! Our next free session will be the Sunday Market Blitz at 8 pm est. If you want any of our premium services including the Lifetime Course Membership, Premium Signals, and Account Management reach out to us ASAP!"
