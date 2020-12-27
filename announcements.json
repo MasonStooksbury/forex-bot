@@ -18,12 +18,12 @@
         {
             "cron": "00 00 12 * * SUN",
             "channel": "577186499788013570",
-            "message": "If you are not already inside, make sure you join our free course! Here is the link to get started!   <http://forexleagueteam.com/free> 🔥 "
+            "message": "If you want to schedule a one on one with us this week please use this link to check out the times that are available <https://calendly.com/angelo-23/forexleaguecall> "
         },
         {
-            "cron": "00 30 19 * * SUN",
-            "channel": "576925133512507417",
-            "message": "If you want to schedule a one on one with us this week please use this link to check out the times that are available <https://calendly.com/angelo-23/forexleaguecall> "
+            "cron": "00 00 12 * * SUN",
+            "channel": "734703499581063169",
+            "message": "The broker that we use is KOT4x 👑 They offer low spreads and commissions, BTC withdraws/despoits, 1:500 leverage, ECN Accounts, and you can trade forex, crypto, commodities, indices and stocks. If you want help getting set up with them we put together a few videos to get you started! <https://myforexleague.teachable.com/p/broker> "
         },
         {
             "cron": "00 30 19 * * SUN",
@@ -48,7 +48,12 @@
         {
             "cron": "00 05 21 * * SUN",
             "channel": "692752766325620806",
-            "message": "Thank you for joining our Sunday Market Blitz! Best of luck this week in the markets. Our next free session will be on Wednesday at 8 am est.  If you want any of our premium services including the Lifetime Course Membership, Premium Signals, and Account Management reach out to us ASAP!"
+            "message": "Thank you for joining our Sunday Market Blitz! Best of luck this week in the markets. Our next free session will be on Wednesday at 8 am est.  If you want any of our premium services including the Lifetime Course Membership, Premium Signals, and Account Management reach out to us ASAP! You can catch the replay from the Sunday Market Blitz on our Youtube Channel https://www.youtube.com/channel/UCaghoaCcEoZih60zap3yH5A "
+        },
+        {
+            "cron": "00 00 22 * * SUN",
+            "channel": "792775287305273377",
+            "message": "🚨 🎟 RAFFLE ANNOUNCEMENT 🎟 🚨 We are teaming up with Royal Raffles to give away a 34” LG Ultra Wide Curved Monitor. You can win for as little as $10 entry. There are max 50 tickets available and when the tickets are sold out then a winner will be selected. Check out the competition site for more details. One lucky winner is going to get this great monitor for as little as $10 🔥🤯 Good Luck everyone! <https://www.royal-raffles.com/product-page/lg-34in-monitor>"
         },
         {
             "cron": "00 30 07 * * MON",
@@ -138,7 +143,7 @@
         {
             "cron": "00 05 09 * * WED",
             "channel": "576925133512507417",
-            "message": "Thank you for joining the live session! Our next free session will be the Sunday Market Blitz at 8 pm est. If you want any of our premium services including the Lifetime Course Membership, Premium Signals, and Account Management reach out to us ASAP!"
+            "message": "Thank you for joining the live session! Our next free session will be the Sunday Market Blitz at 8 pm est. If you want any of our premium services including the Lifetime Course Membership, Premium Signals, and Account Management reach out to us ASAP! You can catch the replay from the Live Session on our Youtube Channel <https://www.youtube.com/channel/UCaghoaCcEoZih60zap3yH5A> "
         },
         {
             "cron": "00 05 09 * * WED",
@@ -169,6 +174,11 @@
             "cron": "00 00 22 * * WED",
             "channel": "576925133512507417",
             "message": "If you are not already make sure you join our free course! Here is the link to get started!  🔗 <http://forexleagueteam.com/free>"
+        },
+        {
+            "cron": "00 00 22 * * WED",
+            "channel": "792775287305273377",
+            "message": "🚨 🎟 RAFFLE ANNOUNCEMENT 🎟 🚨 We are teaming up with Royal Raffles to give away a 34” LG Ultra Wide Curved Monitor. You can win for as little as $10 entry. There are max 50 tickets available and when the tickets are sold out then a winner will be selected. Check out the competition site for more details. One lucky winner is going to get this great monitor for as little as $10 🔥🤯 Good Luck everyone! <https://www.royal-raffles.com/product-page/lg-34in-monitor>"
         },
         {
             "cron": "00 30 07 * * THU",
