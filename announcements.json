@@ -48,7 +48,7 @@
         {
             "cron": "00 05 21 * * SUN",
             "channel": "692752766325620806",
-            "message": "Thank you for joining our Sunday Market Blitz! Best of luck this week in the markets. Our next free session will be on Wednesday at 8 am est.  If you want any of our premium services including the Lifetime Course Membership, Premium Signals, and Account Management reach out to us ASAP! You can catch the replay from the Sunday Market Blitz on our Youtube Channel https://www.youtube.com/channel/UCaghoaCcEoZih60zap3yH5A "
+            "message": "Thank you for joining our Sunday Market Blitz! Best of luck this week in the markets. Our next free session will be on Wednesday at 8 am est. \n\n If you want any of our premium services including the Lifetime Membership Course, Account Management, or Premium Signals you can sign up below \n\n Lifetime Course Membership 🎓 <https://t.me/ForexLeagueLifetimeMembershipBot> \n\n Premium Signals 💰 <https://t.me/ForexLeaguePremiumSignalsBot> \n\n Trade Copier send me a message 🏧 "
         },
         {
             "cron": "00 00 22 * * SUN",
@@ -83,7 +83,7 @@
         {
             "cron": "00 00 17 * * MON",
             "channel": "576925133512507417",
-            "message": "If you want account management services from us, shoot me a message to get more information! @Forex League (Angelo & Nick) "
+            "message": "\n\n If you want any of our premium services including the Lifetime Membership Course, Account Management, or Premium Signals you can sign up below \n\n Lifetime Course Membership 🎓 <https://t.me/ForexLeagueLifetimeMembershipBot> \n\n Premium Signals 💰 <https://t.me/ForexLeaguePremiumSignalsBot> \n\n Trade Copier send me a message 🏧 "
         },
         {
             "cron": "00 00 20 * * MON",
@@ -98,7 +98,7 @@
         {
             "cron": "00 30 07 * * TUE",
             "channel": "576925133512507417",
-            "message": "Good morning Forex League❗ Let’s keep the momentum going today 💪 Whether your trading live, on a demo, or backtesting make the most of this opportunity!. 🙌 Head over to the <#576920775055900682> Channel for any of our premium services 🙏"
+            "message": "Good morning Forex League❗ Let’s keep the momentum going today 💪 Whether your trading live, on a demo, or backtesting make the most of this opportunity!. 🙌 \n\n If you want any of our premium services including the Lifetime Membership Course, Account Management, or Premium Signals you can sign up below \n\n Lifetime Course Membership 🎓 <https://t.me/ForexLeagueLifetimeMembershipBot> \n\n Premium Signals 💰 <https://t.me/ForexLeaguePremiumSignalsBot> \n\n Trade Copier send me a message 🏧 "
         },
         {
             "cron": "00 00 08 * * TUE",
@@ -109,11 +109,6 @@
             "cron": "00 00 12 * * TUE",
             "channel": "576925133512507417",
             "message": "Go to our website where you can find all the products we have to offer along with a little background about us! Just use this link to check it out 🚀 <https://www.forexleagueco.com/>"
-        },
-        {
-            "cron": "00 00 17 * * TUE",
-            "channel": "576925133512507417",
-            "message": "Want us to pass your ftmo challenge for you? We will do it for $100k, $200k and $300k accounts. 💰  Shoot us a message now to get started <@Forex League (Angelo & Nick)#6038> "
         },
         {
             "cron": "00 00 20 * * TUE",
@@ -143,7 +138,7 @@
         {
             "cron": "00 05 09 * * WED",
             "channel": "576925133512507417",
-            "message": "Thank you for joining the live session! Our next free session will be the Sunday Market Blitz at 8 pm est. If you want any of our premium services including the Lifetime Course Membership, Premium Signals, and Account Management reach out to us ASAP! You can catch the replay from the Live Session on our Youtube Channel <https://www.youtube.com/channel/UCaghoaCcEoZih60zap3yH5A> "
+            "message": "Thank you for joining the live session! Our next free session will be the Sunday Market Blitz at 8 pm est. You can catch the replay from the Live Session on our Youtube Channel <https://www.youtube.com/channel/UCaghoaCcEoZih60zap3yH5A> \n\n If you want any of our premium services including the Lifetime Membership Course, Account Management, or Premium Signals you can sign up below \n\n Lifetime Course Membership 🎓 <https://t.me/ForexLeagueLifetimeMembershipBot> \n\n Premium Signals 💰 <https://t.me/ForexLeaguePremiumSignalsBot> \n\n Trade Copier send me a message 🏧 "
         },
         {
             "cron": "00 05 09 * * WED",
@@ -196,11 +191,6 @@
             "message": "Make sure to check out our website where you can find all the products we have to offer along with a little about the owners of Forex League! Just use this link to check it out 🚀 <https://www.forexleagueco.com/>"
         },
         {
-            "cron": "00 00 17 * * THU",
-            "channel": "576925133512507417",
-            "message": "Want us to pass your ftmo challenge for you? We will do it for $100k, $200k and $300k accounts. 💰 Shoot us a message now to get started @Forex League (Angelo & Nick)  "
-        },
-        {
             "cron": "00 00 20 * * THU",
             "channel": "576925133512507417",
             "message": "Go to the <#692752766325620806> channel which will have our watchlist as we head into the Asian session tonight it is completely FREE"
@@ -213,7 +203,7 @@
         {
             "cron": "00 00 08 * * FRI",
             "channel": "576925133512507417",
-            "message": "Hey Team! This has been another interesting week in the markets 🔥 If you want account management services from us shoot me a message to get more information! @Forex League (Angelo & Nick)"
+            "message": "Hey Team! This has been another interesting week in the markets 🔥 \n\n If you want any of our premium services including the Lifetime Membership Course, Account Management, or Premium Signals you can sign up below \n\n Lifetime Course Membership 🎓 <https://t.me/ForexLeagueLifetimeMembershipBot> \n\n Premium Signals 💰 <https://t.me/ForexLeaguePremiumSignalsBot> \n\n Trade Copier send me a message 🏧"
         },
         {
             "cron": "00 00 17 * * FRI",
@@ -223,7 +213,7 @@
         {
             "cron": "00 00 09 * * SAT",
             "channel": "576925133512507417",
-            "message": "Good Morning Team❗ It’s the weekend and we hope you take some time for yourself 🙌 If you want account management or funding we have the Forex League Funded Program that can get you up to $300k. Message us now for more information 💰 "
+            "message": "Good Morning Team❗ It’s the weekend and we hope you take some time for yourself 🙌 \n\n If you want any of our premium services including the Lifetime Membership Course, Account Management, or Premium Signals you can sign up below \n\n Lifetime Course Membership 🎓 <https://t.me/ForexLeagueLifetimeMembershipBot> \n\n Premium Signals 💰 <https://t.me/ForexLeaguePremiumSignalsBot> \n\n Trade Copier send me a message 🏧"
         },
         {
             "cron": "00 00 12 * * SAT",
