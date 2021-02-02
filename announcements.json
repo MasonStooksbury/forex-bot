@@ -43,7 +43,7 @@
         {
             "cron": "00 05 21 * * SUN",
             "channel": "576925133512507417",
-            "message": "Thank you for joining our Sunday Market Blitz! Best of luck this week in the markets. Our next free session will be on Wednesday at 8 am est.  If you want any of our premium services including the Lifetime Course Membership, Premium Signals, and Account Management reach out to us ASAP!"
+            "message": "Thank you for joining our Sunday Market Blitz! Best of luck this week in the markets. Our next free session will be on Wednesday at 9 am est.  If you want any of our premium services including the Lifetime Course Membership, Premium Signals, and Account Management reach out to us ASAP!"
         },
         {
             "cron": "00 05 21 * * SUN",
@@ -128,20 +128,20 @@
         {
             "cron": "00 00 22 * * TUE",
             "channel": "576925133512507417",
-            "message": "Hey Team! We are having our only free live trading session of the week tomorrow at 8 am EST. ⏰ A Zoom link will be posted here prior to the session and it is completely FREE to join. \nIf you have questions about anything feel free to come through and ask in the chat! As always there will be a $25 giveaway for people who attend 💰 See you for tomorrow’s session! 💯"
+            "message": "Hey Team! We are having our only free live trading session of the week tomorrow at 9 am EST. ⏰ A Zoom link will be posted here prior to the session and it is completely FREE to join. \nIf you have questions about anything feel free to come through and ask in the chat! As always there will be a $25 giveaway for people who attend 💰 See you for tomorrow’s session! 💯"
         },
         {
             "cron": "00 30 07 * * WED",
             "channel": "576925133512507417",
-            "message": "Good morning Forex League❗ Today let’s get one step closer to our goals. Today we will be having our only FREE live session of the week. The link will be dropped in here at 8 am EST. Talk to you soon!🔥 "
+            "message": "Good morning Forex League❗ Today let’s get one step closer to our goals. Today we will be having our only FREE live session of the week. The link will be dropped in here at 9 am EST. Talk to you soon!🔥 "
         },
         {
-            "cron": "00 00 08 * * WED",
+            "cron": "00 00 09 * * WED",
             "channel": "576925133512507417",
             "message": "Be sure to check out the <#692752766325620806> channel which will have our watchlist as we head into the NY session today it is completely FREE \nHere is the link to our live trading session you can join NOW 🔗 <https://us02web.zoom.us/j/5273214305>"
         },
         {
-            "cron": "00 00 08 * * WED",
+            "cron": "00 00 09 * * WED",
             "channel": "692752766325620806",
             "message": "Here is the link to our live trading session you can join NOW 🔗 <https://us02web.zoom.us/j/5273214305>"
         },
