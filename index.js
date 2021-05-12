@@ -29,10 +29,16 @@ announcements["announcements"].forEach(announcement => {
 	// Create a new Cron job inside a list so that we can use the RNG variable name
 	temp_jobs[job_id] = new cron.CronJob(announcement["cron"], () =>{
 		const guild = client.guilds.cache.get(server_id);
-		// Find the channel we want to cross-post to and store its channel object
+		// Find the channel we want to post in and store its channel object
 		const channel = guild.channels.cache.find(channel => channel.id === announcement["channel"]);
-		// Then send our re-formatted string and our images (if any) to that channel
-		channel.send(announcement["message"] + '\n@everyone');
+		// If we don't have any images, send our re-formatted string
+		if (announcement["images"] === '') {
+			channel.send(announcement["message"] + '\n@everyone');
+		} 
+		// Otherwise, send the string and the images
+		else {
+			channel.send(announcement["message"] + '\n@everyone', {files: announcement["images"]});
+		}
 	}, undefined, true, timezone='America/New_York');
 	// For some reason, the above method adds a bunch of null garbage to the list so we need to strip that out
 	//		While we're at it, we will just add the real elements to a different list so we can start them all
