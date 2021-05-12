@@ -10,7 +10,7 @@
             "cron": "00 00 08 * * SUN",
             "channel": "692752766325620806",
             "message": "Hey Team! We will be posting all of our analysis for the week later today as we prepare for market open at 5 pm EST! ",
-            "images": ["", ""]
+            "images": ""
         },
         {
             "cron": "00 00 12 * * SUN",
