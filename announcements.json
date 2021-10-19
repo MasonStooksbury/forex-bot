@@ -15,7 +15,7 @@
         {
             "cron": "00 00 12 * * SUN",
             "channel": "577186499788013570",
-            "message": "If you want to schedule a one on one with us this week please use this link to check out the times that are available <https://calendly.com/angelo-23/forex-league-one-on-one-scheduler?month=2021-10> ",
+            "message": "If you want to schedule a one on one with us this week please use this link to check out the times that are available <https://calendly.com/angelo-23/forex-league-one-on-one-scheduler ",
             "images": ""
         },
         {
@@ -99,7 +99,7 @@
         {
             "cron": "00 30 07 * * WED",
             "channel": "576925133512507417",
-            "message": "Good morning Forex League❗ Today let’s get one step closer to our goals. We will be having a FREE live webinar at the end of the week. It will take place on Friday at 1 pm est🔥 ",
+            "message": "Good morning Forex League❗ Today let’s get one step closer to our goals. We will be sharing a market review for this week posted on youtube page.
             "images": ""
         },
         {
@@ -145,24 +145,6 @@
             "images": ""
         },
         {
-            "cron": "00 00 22 * * THU",
-            "channel": "576925133512507417",
-            "message": "Thank you for joining the Forex League Live Sessions this week! 💯 We hope that you guys benefited from them and we really enjoy doing them for everybody. The amount of support and teamwork within this community always comes through and only makes us want to work harder every week 💪🏻 If you did not catch the live sessions make sure to jump on over to our YouTube channel and check them out. They are completely FREE! <https://www.youtube.com/channel/UCaghoaCcEoZih60zap3yH5A> ",
-            "images": ""
-        },
-        {
-            "cron": "00 00 13 * * FRI",
-            "channel": "692752766325620806",
-            "message": "Here is the link to our live trading session you can join NOW 🔗 <https://us02web.zoom.us/j/5273214305>",
-            "images": ""
-        },
-        {
-            "cron": "00 05 14 * * FRI",
-            "channel": "576925133512507417",
-            "message": "Thank you for joining the live session! Our next free session will be the Sunday Market Blitz at 8 pm est. You can catch the replay from the Live Session on our Youtube Channel <https://www.youtube.com/channel/UCaghoaCcEoZih60zap3yH5A> \n\n  If you want any of our premium services including the Lifetime Course Membership, Learn and Earn Signal Room, and Account Management get started below with our sign up bot! ↙\n\n 👉🏻👉🏻👉🏻  https://t.me/ForexLeagueMessageBot 👈🏻👈🏻👈🏻",
-            "images": ""
-        },        
-        {
             "cron": "00 00 17 * * FRI",
             "channel": "576925133512507417",
             "message": "The market is now CLOSED but the work begins NOW. The weekend is the perfect time to review this past week, backtest your system, or if you’re a beginner refresh on the basics. We want to be here to support you during this time. Check out all of our free live webinars here 🔗  https://myforexleague.teachable.com/courses/enrolled/595325",
@@ -171,7 +153,7 @@
         {
             "cron": "00 00 09 * * SAT",
             "channel": "576925133512507417",
-            "message": "Good Morning Team❗ It’s the weekend and we hope you take some time for yourself 🙌 \n\n If you want any of our premium services including the Lifetime Course Membership, Learn and Earn Signal Room, and Account Management you can get started below with our sign up bot! \n\n👉🏻  https://t.me/ForexLeagueMessageBot 👈🏻 ",
+            "message": "Good Morning Team❗ It’s the weekend and we hope you take some time for yourself 🙌 \n\n If you want any of our premium services including the Lifetime Course Membership, Rapid Signal Room, and Account Management you can get started below with our sign up bot! \n\n👉🏻  https://t.me/ForexLeagueMessageBot 👈🏻 ",
             "images": ""
         },
         {
