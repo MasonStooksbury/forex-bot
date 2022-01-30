@@ -75,19 +75,13 @@
         {
             "cron": "00 30 07 * * TUE",
             "channel": "576925133512507417",
-            "message": "Good morning Forex League❗ Let’s keep the momentum going today 💪 Whether your trading live, on a demo, or backtesting make the most of this opportunity!. 🙌 \n\n  if you want any of our premium services including the Lifetime Membership Course, Account Management, or Rapid Signal Room 🙏 \n\n You can also go to our sign up bot to get started ↙\n\n 👉🏻  https://t.me/ForexLeagueMessageBot 👈🏻",
+            "message": "Good morning Forex League❗ Let’s keep the momentum going today 💪 Whether your trading live, on a demo, or backtesting make the most of this opportunity!. 🙌 ,
             "images": ""
         },
         {
             "cron": "00 00 08 * * TUE",
             "channel": "576925133512507417",
             "message": "Be sure to check out the <#692752766325620806> channel which will have our watchlist as we head into the NY session today it is completely FREE ",
-            "images": ""
-        },
-        {
-            "cron": "00 00 17 * * TUE",
-            "channel": "576925133512507417",
-            "message": "Want to get funded? We are currently building a team of traders through the Funded Trader which is a funding company that offers 50k, 100k and 200k accounts. If you beat the challenge you will become a partner with the Funded Trader and Forex League where we will start building out a close relatiosnhip with you to scale up to $1.5 million given by our investors 💰 To learn more click here \n\n   https://t.me/Thefundedtraderbot 👈🏻",
             "images": ""
         },
         {
@@ -121,21 +115,9 @@
             "images": ""
         },
         {
-            "cron": "00 30 07 * * THU",
-            "channel": "576925133512507417",
-            "message": "Hey Team! Happy Thursday, if you want to check out one of our previously done live webinars you can head over to our website and look back on some of the free ones we have done 🔗  https://myforexleague.teachable.com/courses/enrolled/595325",
-            "images": ""
-        },
-        {
             "cron": "00 00 08 * * THU",
             "channel": "576925133512507417",
             "message": "Be sure to check out the <#692752766325620806> channel which will have our watchlist as we head into the NY session today it is completely FREE ",
-            "images": ""
-        },
-         {
-            "cron": "00 00 17 * * THU",
-            "channel": "576925133512507417",
-            "message": "Want to get funded? We are currently building a team of traders through the Funded Trader which is a funding company that offers 50k, 100k and 200k accounts. If you beat the challenge you will become a partner with the Funded Trader and Forex League where we will start building out a close relatiosnhip with you to scale up to $1.5 million given by our investors 💰 To learn more click here \n\n  👉🏻 https://t.me/Thefundedtraderbot 👈🏻 ",
             "images": ""
         },
         {
@@ -150,17 +132,5 @@
             "message": "The market is now CLOSED but the work begins NOW. The weekend is the perfect time to review this past week, backtest your system, or if you’re a beginner refresh on the basics. We want to be here to support you during this time. Check out all of our free live webinars here 🔗  https://myforexleague.teachable.com/courses/enrolled/595325",
             "images": ""
         },
-        {
-            "cron": "00 00 09 * * SAT",
-            "channel": "576925133512507417",
-            "message": "Good Morning Team❗ It’s the weekend and we hope you take some time for yourself 🙌 \n\n If you want any of our premium services including the Lifetime Course Membership, Rapid Signal Room, and Account Management you can get started below with our sign up bot! \n\n👉🏻  https://t.me/ForexLeagueMessageBot 👈🏻 ",
-            "images": ""
-        },
-        {
-            "cron": "00 00 12 * * SAT",
-            "channel": "576925133512507417",
-            "message": "Want to get funded? We are currently building a team of traders through the Funded Trader which is a funding company that offers 50k, 100k and 200k accounts. If you beat the challenge you will become a partner with the  Trader and Forex League where we will start building out a close relatiosnhip with you to scale up to $1.5 million given by our investors 💰 To learn more click here \n\n  👉🏻 https://t.me/Thefundedtraderbot 👈🏻",
-            "images": ""
-        }
     ]
 }
