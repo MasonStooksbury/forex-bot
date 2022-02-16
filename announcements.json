@@ -51,39 +51,14 @@
             "message": "For all the new members, if you submit a picture of your profits here you have a chance at winning a $25 giveaway. ",
         },
         {
-            "cron": "00 00 08 * * MON",
-            "channel": "576925133512507417",
-            "message": "Be sure to check out the <#692752766325620806> channel which will have our watchlist as we head into the NY session today it is completely FREE ",
-        },
-        {
-            "cron": "00 00 20 * * MON",
-            "channel": "576925133512507417",
-            "message": "Be sure to check out the <#692752766325620806> channel which will have our watchlist as we head into the Asian session tonight it is completely FREE ",
-        },
-        {
             "cron": "00 30 07 * * TUE",
             "channel": "576925133512507417",
             "message": "Good morning Forex League❗ Let’s keep the momentum going today 💪 Whether your trading live, on a demo, or backtesting make the most of this opportunity!. 🙌 "
         },
         {
-            "cron": "00 00 08 * * TUE",
-            "channel": "576925133512507417",
-            "message": "Be sure to check out the <#692752766325620806> channel which will have our watchlist as we head into the NY session today it is completely FREE ",
-        },
-        {
-            "cron": "00 00 20 * * TUE",
-            "channel": "576925133512507417",
-            "message": "Be sure to check out the <#692752766325620806> channel which will have our watchlist as we head into the Asian session tonight it is completely FREE ",
-        },
-        {
             "cron": "00 30 07 * * WED",
             "channel": "576925133512507417",
             "message": "Good morning Forex League❗ Today let’s get one step closer to our goals. We will be sharing a market review for this week posted on youtube page.",
-        },
-        {
-            "cron": "00 00 09 * * WED",
-            "channel": "576925133512507417",
-            "message": "Be sure to check out the <#692752766325620806> channel which will have our watchlist as we head into the NY session today it is completely FREE",
         },
         {
             "cron": "00 05 09 * * WED",
@@ -94,11 +69,6 @@
             "cron": "00 05 09 * * WED",
             "channel": "735829076455194625",
             "message": "For all the new members, if you submit a picture of your profits here you have a chance at winning a $25 giveaway. ",
-        },
-        {
-            "cron": "00 00 08 * * THU",
-            "channel": "576925133512507417",
-            "message": "Be sure to check out the <#692752766325620806> channel which will have our watchlist as we head into the NY session today it is completely FREE ",
         },
         {
             "cron": "00 00 20 * * THU",
