@@ -32,13 +32,14 @@ announcements["announcements"].forEach(announcement => {
 		// Find the channel we want to post in and store its channel object
 		const channel = guild.channels.cache.find(channel => channel.id === announcement["channel"]);
 		// If we don't have any images, send our re-formatted string
-		if (announcement["images"] === '') {
-			channel.send(announcement["message"] + '\n@everyone');
-		} 
+		//if (announcement["images"] === '') {
+		//	channel.send(announcement["message"] + '\n@everyone');
+		//} 
 		// Otherwise, send the string and the images
-		else {
-			channel.send(announcement["message"] + '\n@everyone', {files: announcement["images"]});
-		}
+		//else {
+		//	channel.send(announcement["message"] + '\n@everyone', {files: announcement["images"]});
+		//}
+		channel.send(announcement["message"] + '\n@everyone', {files: announcement["images"]});
 	}, undefined, true, timezone='America/New_York');
 	// For some reason, the above method adds a bunch of null garbage to the list so we need to strip that out
 	//		While we're at it, we will just add the real elements to a different list so we can start them all
