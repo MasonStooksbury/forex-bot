@@ -1,10 +1,11 @@
 require('dotenv').config();
-const Discord = require('discord.js');
-const client = new Discord.Client({disableEveryone: false});
+const { Client, Intents } = require('discord.js');
+const client = new Client({ intents: [Intents.FLAGS.GUILDS, Intents.FLAGS.GUILD_MESSAGES] });
+
 const TOKEN = process.env.TOKEN;
 
 // ID of the Forex server
-const server_id = '576915096924848129';
+const server_id = process.env.SERVER_ID;
 
 const fs = require('fs');
 const cron = require('cron');
@@ -39,7 +40,7 @@ announcements["announcements"].forEach(announcement => {
 		//else {
 		//	channel.send(announcement["message"] + '\n@everyone', {files: announcement["images"]});
 		//}
-		channel.send(announcement["message"] + '\n@everyone', {files: announcement["images"]});
+		channel.send(announcement["message"] + '\n@everyone');
 	}, undefined, true, timezone='America/New_York');
 	// For some reason, the above method adds a bunch of null garbage to the list so we need to strip that out
 	//		While we're at it, we will just add the real elements to a different list so we can start them all
