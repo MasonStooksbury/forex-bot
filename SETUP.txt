@@ -26,21 +26,23 @@ Setup the Discord bot:
     Next, select "Bot" on the left hand side
     Click "Add Bot" on the right, and then "Yes, do it!"
     In the very center, click "Click to Reveal Token"
-    Copy this string of characters
-    In VSCode, open the ".env" file and replace the long token with the thing you just copied
+    Copy this string of characters for later
+    Under the "Privileged Gateway Intents" section, check all switches on the right
+    Login to the server on CubeHosting
+    Click the "File Manager" tab
+    Click your ".env" file
+    Replace the long token with the thing you just copied
     Next, in the Discord Developer Portal, click "OAuth2" on the left
+    Then click "URL Generator" under OAuth2
     In the "Scopes" section, click the "bot" checkbox
     Scroll down, and in the "Bot Permissions" section select these:
+	Manage Roles
+ 	Read Messages/View Channels
         Send Messages
         Manage Messages
-        Embed Links
-        Attach Files
-        Mention Everyone
-        Use External Emojis
-        Add Reactions
-        View Channels
-    There should be a long link in the "Scopes" section now. Click that and paste it into a new browser tab
-    Here you will be able to invite the bot into your server
+        Read Message History
+    Scroll down and get the link under "Generated URL"
+    Paste that link into a new tab to invite the bot to your server
 
 Running the bot:
     Now that everything is setup, go back to the VSCode terminal
