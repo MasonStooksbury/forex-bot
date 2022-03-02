@@ -1,5 +1,5 @@
 {
-    "announcements": [
+    "dannouncements": [
         {
             "cron": "00 00 08 * * SUN",
             "channel": "576925133512507417",            
