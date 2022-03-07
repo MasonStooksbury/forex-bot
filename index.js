@@ -31,6 +31,7 @@ announcements["announcements"].forEach(announcement => {
 
 	// Create a new Cron job inside a list so that we can use the RNG variable name
 	temp_jobs[job_id] = new cron.CronJob(announcement["cron"], () =>{
+                console.log('ran job');
 		const guild = client.guilds.cache.get(server_id);
 		// Find the channel we want to post in and store its channel object
 		const channel = guild.channels.cache.find(channel => channel.id === announcement["channel"]);
