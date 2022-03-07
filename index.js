@@ -26,6 +26,7 @@ const jobs = [];
 
 // Let's create jobs for everything in the announcements file
 announcements["announcements"].forEach(announcement => {
+        console.log('making job');
 	// Generate a random number to act as the job variable name
 	const job_id = Math.floor(Math.random() * 10000).toString();
 
