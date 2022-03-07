@@ -54,11 +54,6 @@ announcements["announcements"].forEach(announcement => {
 })
 
 
-// jobs.forEach((job, index) => {
-// 	console.log(job[0]);
-// 	console.log(`job ${index}: ${job[0].running}`);
-// })
-
 jobs.forEach(job => {
 	job[0].start()
 })
