@@ -26,16 +26,17 @@ const jobs = [];
 
 // Let's create jobs for everything in the announcements file
 announcements["announcements"].forEach(announcement => {
-        console.log('making job');
+	console.log('making job');
 	// Generate a random number to act as the job variable name
 	const job_id = Math.floor(Math.random() * 10000).toString();
 
 	// Create a new Cron job inside a list so that we can use the RNG variable name
 	temp_jobs[job_id] = new cron.CronJob(announcement["cron"], () =>{
-                console.log('ran job');
+		console.log('ran job');
 		const guild = client.guilds.cache.get(server_id);
 		// Find the channel we want to post in and store its channel object
 		const channel = guild.channels.cache.find(channel => channel.id === announcement["channel"]);
+		channel.send(announcement["message"] + '\n@everyone');
 		// If we don't have any images, send our re-formatted string
 		//if (announcement["images"] === '') {
 		//	channel.send(announcement["message"] + '\n@everyone');
@@ -44,7 +45,6 @@ announcements["announcements"].forEach(announcement => {
 		//else {
 		//	channel.send(announcement["message"] + '\n@everyone', {files: announcement["images"]});
 		//}
-		channel.send(announcement["message"] + '\n@everyone');
 	}, undefined, true, timezone='America/New_York');
 	// For some reason, the above method adds a bunch of null garbage to the list so we need to strip that out
 	//		While we're at it, we will just add the real elements to a different list so we can start them all
@@ -53,7 +53,7 @@ announcements["announcements"].forEach(announcement => {
 	}));
 })
 
-
+console.log(jobs);
 
 // When the bot connects
 client.on('ready', () => {
