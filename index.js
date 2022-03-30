@@ -36,9 +36,17 @@ announcements["announcements"].forEach(announcement => {
 			timezone: "America/New_York"
 		}, () =>{
 		const guild = client.guilds.cache.get(server_id);
+		console.log(guild);
+		console.log('\n\n\n');
+		console.log(guild.channels);
 		// Find the channel we want to post in and store its channel object
 		const channel = guild.channels.cache.find(channel => channel.id === announcement["channel"]);
-		channel.send(announcement["message"] + '\n@everyone');
+		console.log(channel);
+		if (channel !== null && channel !== undefined) {
+			channel.send(announcement["message"] + '\n@everyone');
+		} else {
+			console.log('channel was null, please fix it');
+		}
 		// If we don't have any images, send our re-formatted string
 		//if (announcement["images"] === '') {
 		//	channel.send(announcement["message"] + '\n@everyone');
