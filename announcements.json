@@ -51,19 +51,14 @@
             "message": "For all the new members, if you submit a picture of your profits here you have a chance at winning a $25 giveaway. "
         },
         {
-            "cron": "00 50 22 ? * WED",
+            "cron": "00 30 07 ? * TUE",
             "channel": "576925133512507417",
-            "message": "Please ignore this test"
+            "message": "Good morning Forex League❗ Let’s keep the momentum going today 💪 Whether your trading live, on a demo, or backtesting make the most of this opportunity!. 🙌 "
         },
         {
-            "cron": "00 50 23 ? * WED",
+            "cron": "00 58 23 ? * WED",
             "channel": "576925133512507417",
-            "message": "PPlease ignore this test"
-        },
-        {
-            "cron": "00 30 07 ? * WED",
-            "channel": "576925133512507417",
-            "message": "Good morning Forex League❗ Today let’s get one step closer to our goals. We will be sharing a market review for this week posted on youtube page."
+            "message": "Please ignore this final test"
         },
         {
             "cron": "00 05 09 ? * WED",
