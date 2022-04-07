@@ -51,9 +51,14 @@
             "message": "For all the new members, if you submit a picture of your profits here you have a chance at winning a $25 giveaway. "
         },
         {
-            "cron": "00 47 22 ? * WED",
+            "cron": "00 50 22 ? * WED",
             "channel": "576925133512507417",
             "message": "Please ignore this test"
+        },
+        {
+            "cron": "00 50 23 ? * WED",
+            "channel": "576925133512507417",
+            "message": "PPlease ignore this test"
         },
         {
             "cron": "00 30 07 ? * WED",
