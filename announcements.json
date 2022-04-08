@@ -56,16 +56,6 @@
             "message": "Good morning Forex League❗ Let’s keep the momentum going today 💪 Whether your trading live, on a demo, or backtesting make the most of this opportunity!. 🙌 "
         },
         {
-            "cron": "00 17 21 ? * THU",
-            "channel": "576925133512507417",
-            "message": "Please ignore this test"
-        },
-        {
-            "cron": "00 25 21 ? * THU",
-            "channel": "576925133512507417",
-            "message": "Please ignore this test"
-        },
-        {
             "cron": "00 05 09 ? * WED",
             "channel": "719558322503811173",
             "message": "For all the new members, if you submit a meme here you have a chance at winning a $25 giveaway. "
