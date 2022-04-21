@@ -35,7 +35,11 @@
             "channel": "576925133512507417",
             "message": "Thank you for joining our Sunday Market Blitz! Best of luck this week in the markets. ☘️  \n\n If you want any of our premium services including the Lifetime Course Membership, Rapid Signal Room, and Account Management use our sign up bot!  \n\n 👉🏻  https://t.me/ForexLeagueBot👈🏻 \n\n You can catch the replay from the Sunday Market Blitz on our Youtube Channel https://www.youtube.com/channel/UCaghoaCcEoZih60zap3yH5A "
         },
-        {
+   {
+            "cron": "00 05 21 * * MON",
+            "channel": "576925133512507417",
+            "message": "🚨 Zoom call about membership. \n\n If you are interested about our membership but you are unsure what is it about or having some doubts. Please check <#588381918362337281> <#576920775055900682> <#925166466263822357> where we share all details. Create a ticket under the <#901478871105404928> channel and we will send you a link where you can schedule a call to discuss more. @everyone"
+        },
             "cron": "00 30 07 * * MON",
             "channel": "576925133512507417",
             "message": "I would like to welcome all new members to the Forex League Community make sure you head over to the <#588381918362337281> channel for some more information about getting started. Remember, the morning is the best part of the day to get ahead on your daily habits ☀️ The body is rested, the brain is fresh, and the possibilities of the day are endless. Head over to the <#576920775055900682> Channel for any of our premium services 🙏"
@@ -60,6 +64,11 @@
             "channel": "719558322503811173",
             "message": "For all the new members, if you submit a meme here you have a chance at winning a $25 giveaway. "
         },
+   {
+            "cron": "00 05 21 * * WED",
+            "channel": "576925133512507417",
+            "message": "🚨 Zoom call about membership. \n\n If you are interested about our membership but you are unsure what is it about or having some doubts. Please check <#588381918362337281> <#576920775055900682> <#925166466263822357> where we share all details. Create a ticket under the <#901478871105404928> channel and we will send you a link where you can schedule a call to discuss more. @everyone"
+        },
         {
             "cron": "00 05 09 * * WED",
             "channel": "735829076455194625",
@@ -75,5 +84,10 @@
             "channel": "576925133512507417",
             "message": "The market is now CLOSED but the work begins NOW. The weekend is the perfect time to review this past week, backtest your system, or if you’re a beginner refresh on the basics. We want to be here to support you during this time. Check out all of our free live webinars here 🔗  https://myforexleague.teachable.com/courses/enrolled/595325"
         }
+   {
+            "cron": "00 05 21 * * FRI",
+            "channel": "576925133512507417",
+            "message": "🚨 Zoom call about membership. \n\n If you are interested about our membership but you are unsure what is it about or having some doubts. Please check <#588381918362337281> <#576920775055900682> <#925166466263822357> where we share all details. Create a ticket under the <#901478871105404928> channel and we will send you a link where you can schedule a call to discuss more. @everyone"
+        },
     ]
 }
