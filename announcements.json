@@ -55,11 +55,6 @@
             "channel": "735829076455194625",
             "message": "For all the new members, if you submit a picture of your profits here you have a chance at winning a $25 giveaway. "
         },
-         {
-            "cron": "00 30 20 * * MON",
-            "channel": "920306270479732766",
-            "message": "       Hey Team! We are hosting a free webinar, Tuesday July 21, 2022 at 10 am est. \n If you want to join please register through this link. We will be discussing how to make $50k+ a month, opportunities to become your own boss, time management in trading, how to leverage your current lifestyle to build your trading career, funding opportunities. If any of these are of interest to you then register below ⬇️ \n https://forexleagueteam.com/forexleaguewebinar "
-        },
         {
             "cron": "00 30 07 * * TUE",
             "channel": "576925133512507417",
@@ -94,11 +89,6 @@
             "cron": "00 30 10 * * THU",
             "channel": "576925133512507417",
             "message": "Forex League Discussion \n Book your spot in the upcoming discussion for lifetime members only in <#944261792182452326>. Let´s improve your trading and get you funded! \n See the results from our members in <#969784317976928316> @everyone "
-        },
-             {
-            "cron": "00 30 20 * * THU",
-            "channel": "576925133512507417",
-            "message": "Hey Team! We are hosting a free webinar, Tuesday July 21, 2022 at 10 am est. \n If you want to join please register through this link. We will be discussing how to make $50k+ a month, opportunities to become your own boss, time management in trading, how to leverage your current lifestyle to build your trading career, funding opportunities. If any of these are of interest to you then register below ⬇️ \n https://forexleagueteam.com/forexleaguewebinar"
         },
         {
             "cron": "00 00 20 * * THU",
