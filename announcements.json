@@ -6,11 +6,6 @@
             "message": "Good Morning Team! First of all I just want to welcome all new members to the group. The markets are opening at 5 pm EST today! 📊 As always we will be posting all of our charts in here before the market opens! 🔥  \n\n Tonight we will be having our Sunday Market Blitz at 8 pm EST which is a live trading session where we cover all of our technical analysis on 10+ pairs. 🎥 \n\n This is an amazing way to kick off the week and see where each pair could be making their next move. If there are opportunities for entry we will provide them for FREE on this live trading session 💰 \n\n The link will be dropped in here prior to this session and it will also be on youtube live 🚀 \n\n If you want to get started with any of our Premium Services please click below 👑 \n\n 👉🏻 https://t.me/ForexLeagueBot 👈🏻 "
         },
         {
-            "cron": "00 00 08 * * SUN",
-            "channel": "692752766325620806",
-            "message": "Hey Team! We will be posting all of our analysis for the week later today as we prepare for market open at 5 pm EST!"
-        },
-        {
             "cron": "00 00 12 * * SUN",
             "channel": "956381749519200258",
             "message": "We are hosting our small group webinars every single wednesday at 9 am est and thursday at 9 pm est. Both sessions will run for 90 minutes. There webinar so make sure you register now! https://calendly.com/honzinosupport/forex-league-training?month=2022-06"
@@ -33,17 +28,12 @@
         {
             "cron": "00 05 21 * * SUN",
             "channel": "576925133512507417",
-            "message": "Thank you for joining our Sunday Market Blitz! Best of luck this week in the markets. ☘️  \n\n If you want any of our premium services including the Lifetime Course Membership, Rapid Signal Room, and Account Management use our sign up bot!  \n\n 👉🏻  https://t.me/ForexLeagueBot👈🏻 \n\n You can catch the replay from the Sunday Market Blitz on our Youtube Channel https://www.youtube.com/channel/UCaghoaCcEoZih60zap3yH5A "
+            "message": "Thank you for joining our Sunday Market Blitz! Best of luck this week in the markets. ☘️  \n\n If you want any of our premium services including the Lifetime Course Membership, Rapid Signal Room, and Account Management use our sign up bot!  \n\n 👉🏻  https://t.me/ForexLeagueBot👈🏻 \n\n If you want to try out to trade up to $600k in capital go to https://thefundedtraderprogram.com/ \n\n You can catch the replay from the Sunday Market Blitz on our Youtube Channel https://www.youtube.com/channel/UCaghoaCcEoZih60zap3yH5A "
         },
    {
             "cron": "00 05 21 * * MON",
             "channel": "576925133512507417",
             "message": "🚨 Zoom call about membership. \n\n If you are interested about our membership but you are unsure what is it about or having some doubts. Please check <#588381918362337281> <#576920775055900682> <#925166466263822357> where we share all details. Create a ticket under the <#901478871105404928> channel and we will send you a link where you can schedule a call to discuss more. "
-        },
-        {
-            "cron": "00 30 07 * * MON",
-            "channel": "576925133512507417",
-            "message": "I would like to welcome all new members to the Forex League Community make sure you head over to the <#588381918362337281> channel for some more information about getting started. Remember, the morning is the best part of the day to get ahead on your daily habits ☀️ The body is rested, the brain is fresh, and the possibilities of the day are endless. Head over to the <#576920775055900682> Channel for any of our premium services 🙏"
         },
         {
             "cron": "00 30 07 * * MON",
@@ -55,15 +45,10 @@
             "channel": "735829076455194625",
             "message": "For all the new members, if you submit a picture of your profits here you have a chance at winning a $25 giveaway. "
         },
-        {
-            "cron": "00 30 07 * * TUE",
-            "channel": "576925133512507417",
-            "message": "Good morning Forex League❗ Let’s keep the momentum going today 💪 Whether your trading live, on a demo, or backtesting make the most of this opportunity!. 🙌 "
-        },
          {
             "cron": "00 30 10 * * TUE",
             "channel": "576925133512507417",
-            "message": "FOREX LEAGUE TRAINING \n Book your spot for your next coming training for lifetime members only in <#944261792182452326>. Let´s improve your trading and get you funded! \n See the results from our members in <#969784317976928316> @everyone "
+            "message": "Forex League Webinar \n Book your spot for your next coming training for lifetime members only in <#944261792182452326>. Let´s improve your trading and get you funded! \n See the results from our members in <#969784317976928316> @everyone "
         },
         {
             "cron": "00 05 09 * * WED",
@@ -78,7 +63,7 @@
         {
             "cron": "00 05 21 * * WED",
             "channel": "920306270479732766",
-            "message": "🚨 Zoom call about membership. \n\n If you are interested about our membership but you are unsure what is it about or having some doubts. Please check <#588381918362337281> <#576920775055900682> <#925166466263822357> where we share all details. Create a ticket under the <#901478871105404928> channel and we will send you a link where you can schedule a call to discuss more. "
+            "message": "🚨 If you want to try out to trade up to $600k in capital go to https://thefundedtraderprogram.com/  "
         },
         {
             "cron": "00 05 09 * * WED",
@@ -88,7 +73,7 @@
           {
             "cron": "00 30 10 * * THU",
             "channel": "576925133512507417",
-            "message": "Forex League Discussion \n Book your spot in the upcoming discussion for lifetime members only in <#944261792182452326>. Let´s improve your trading and get you funded! \n See the results from our members in <#969784317976928316> @everyone "
+            "message": "Forex League Webinar \n Book your spot in the upcoming discussion for lifetime members only in <#944261792182452326>. Let´s improve your trading and get you funded! \n See the results from our members in <#969784317976928316> @everyone "
         },
         {
             "cron": "00 00 20 * * THU",
@@ -100,15 +85,10 @@
             "channel": "956381749519200258",
             "message": "We are going live in 1 hour for members only please make sure you register in <#944261792182452326>"
         },
-        {
-            "cron": "00 00 17 * * FRI",
-            "channel": "576925133512507417",
-            "message": "The market is now CLOSED but the work begins NOW. The weekend is the perfect time to review this past week, backtest your system, or if you’re a beginner refresh on the basics. We want to be here to support you during this time. Check out all of our free live webinars here 🔗  https://myforexleague.teachable.com/courses/enrolled/595325"
-        },
    {
             "cron": "00 05 21 * * FRI",
             "channel": "576925133512507417",
-            "message": "🚨 Zoom call about membership. \n\n If you are interested about our membership but you are unsure what is it about or having some doubts. Please check <#588381918362337281> <#576920775055900682> <#925166466263822357> where we share all details. Create a ticket under the <#901478871105404928> channel and we will send you a link where you can schedule a call to discuss more."
+            "message": "🚨 If you want to try out to trade up to $600k in capital go to https://thefundedtraderprogram.com/ "
    }
        ]
 }
