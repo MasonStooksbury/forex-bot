@@ -28,7 +28,7 @@
         {
             "cron": "00 05 21 * * SUN",
             "channel": "576925133512507417",
-            "message": "Thank you for joining our Sunday Market Blitz! Best of luck this week in the markets. ☘️  \n\n👉🏻 \n\n If you want to try out to trade up to $600k in capital go to https://thefundedtraderprogram.com/ \n\n You can catch the replay from the Sunday Market Blitz on our Youtube Channel https://www.youtube.com/channel/UCaghoaCcEoZih60zap3yH5A "
+            "message": "Thank you for joining our Sunday Market Blitz! Best of luck this week in the markets. ☘️ \n\n If you want to try out to trade up to $600k in capital go to https://thefundedtraderprogram.com/ \n\n You can catch the replay from the Sunday Market Blitz on our Youtube Channel https://www.youtube.com/channel/UCaghoaCcEoZih60zap3yH5A "
         },
    {
             "cron": "00 05 21 * * MON",
@@ -38,12 +38,12 @@
         {
             "cron": "00 30 07 * * MON",
             "channel": "719558322503811173",
-            "message": "For all the new members, if you submit a meme here you have a chance at winning a $25 giveaway. "
+            "message": "For all the new members, if you submit a meme here you have a chance at winning a $10k Funded Trader Challenge giveaway. "
         },
         {
             "cron": "00 30 07 * * MON",
             "channel": "735829076455194625",
-            "message": "For all the new members, if you submit a picture of your profits here you have a chance at winning a $25 giveaway. "
+            "message": "For all the new members, if you submit a picture of your profits here you have a chance at winning a $10k Funded Trader Challenge giveaway. "
         },
          {
             "cron": "00 30 10 * * TUE",
