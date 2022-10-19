@@ -8,7 +8,7 @@
         {
             "cron": "00 00 12 * * SUN",
             "channel": "956381749519200258",
-            "message": "We are hosting our small group webinars every single wednesday at 9 am est and thursday at 12 pm est. Both sessions will run for 90 minutes. There webinar so make sure you register now! https://calendly.com/honzinosupport/forex-league-training?month=2022-06"
+            "message": "We are hosting our small group webinars every single wednesday at 9 am est and thursday at 9 pm est. Both sessions will run for 90 minutes. There webinar so make sure you register now! https://calendly.com/honzinosupport/forex-league-training?month=2022-06"
         },
         {
             "cron": "00 30 19 * * SUN",
@@ -81,7 +81,7 @@
             "message": "Go to the <#692752766325620806> channel which will have our watchlist as we head into the Asian session tonight it is completely FREE"
         },
  {
-            "cron": "00 00 11 * * THU",
+            "cron": "00 00 20 * * THU",
             "channel": "956381749519200258",
             "message": "We are going live in 1 hour for members only please make sure you register in <#944261792182452326>"
         },
